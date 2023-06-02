@@ -1,0 +1,9 @@
+.clock {
+    text-align: center;
+  }
+  
+  #clock-display {
+    font-size: 3em;
+    margin-top: 50px;
+  }
+  
